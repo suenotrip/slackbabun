@@ -28,4 +28,5 @@ var norrisbot = new NorrisBot({
     name: name
 });
 
+console.log("loc1");
 norrisbot.run();
